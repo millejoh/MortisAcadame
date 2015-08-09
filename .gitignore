@@ -1,3 +1,10 @@
+# Specific to this repository
+output
+pelicanconf_local.py
+themes/
+plugins/
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
