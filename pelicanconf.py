@@ -22,14 +22,24 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('IPython.org', 'http://ipython.org/'),
+         ('Jupyter', 'http://jupyter.org/'),
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/millejoh/'),)
 
 DEFAULT_PAGINATION = 10
+
+# Plugins
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["liquid_tags"]
+
+# Theme
+THEME = "themes/built-texts"
+COLOPHON = True
+COLOPHON_TITLE = 'Colophon'
+COLOPHON_CONTENT = 'All education must begin with the premise that one day the student will die.'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
