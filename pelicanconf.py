@@ -36,7 +36,7 @@ PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["liquid_tags"]
 
 # Theme
-THEME = "themes/built-texts"
+THEME = "themes/basic"
 COLOPHON = True
 COLOPHON_TITLE = 'Colophon'
 COLOPHON_CONTENT = 'All education must begin with the premise that one day the student will die.'
