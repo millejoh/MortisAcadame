@@ -1,0 +1,4 @@
+Sitemap: https://millejoh.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: millejoh.github.io
