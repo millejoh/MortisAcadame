@@ -1,0 +1,129 @@
+<p>
+After the exciting announcement in February 2017 of the first <a href="https://conferences.oreilly.com/jupyter/jup-ny">JupyterCon</a>, I was
+somewhat saddened to see no mention of the EIN, or the Emacs IPython Notebook,
+as an available client to the Jupyter notebook server. Drama queen that I am, I
+quickly wrote a note to Fernando, who patiently and kindly explained that not
+many were aware that this project still existed and that perhaps an announcement
+or note to the main Jupyter list might be warranted. Hence the following, brief
+history. I also promise not to be a drama queen.
+</p>
+
+<p>
+In 2013 I discoverd IPython, though maybe rediscovered is a better description.
+My first experiences with Python were back in the late 90's when I maintained a
+web site on my company's local internet using Zope. Up until then the majority
+my admittedly sparse programming background had been in Common Lisp. While I
+loved the idea of the notebook design of IPython, being relatively spoiled
+having used development environments like Lispworks and SLIME I was not happy
+with the user experience the web interface provided. I probably would not have
+spent much time with IPython if it hadn't been for tkf's ein project.
+</p>
+
+<p>
+Some of you may remember, from back when the Jupyter project was still known as
+the <a href="http://ipython.org/ipython-doc/rel-0.12/interactive/htmlnotebook.html">IPython notebook</a>, a talented and prolific coder of the name Takafumi
+Arakaki, or tkf, who created an alternative client to the notebook server's
+default web browser interface.
+</p>
+
+<p>
+This client, which he called the Emacs IPython Notebook (which you can still
+find his project on <a href="https://github.com/tkf/emacs-ipython-notebook">github</a>), or EIN, provided a complete ipython notebook
+experience in the venerable Emacs editor. Not only was EIN nearly <a href="https://github.com/tkf/emacs-ipython-notebook/wiki/Screenshots">feature
+complete</a> when compared to the browser interface it also provided some useful
+features for the Python programmer, like allowing one to <a href="https://github.com/tkf/emacs-ipython-notebook/wiki/Screenshots#connected-buffer">connect</a> Python buffers
+to a notebook and using jedi for autocompletion in the notebook buffer.
+</p>
+
+<p>
+Around March/April of 2014, just as IPython was advancing towards 1.0 and making
+big changes in the notebook/contents API and the kernel communication protocol,
+tkf mysteriously stopped pushing commits to his github repository. 
+</p>
+
+<p>
+I did not know tkf other than from a couple brief conversations. I sincerely
+hope tkf's story has a happy end (he does appear to still push the occasional
+<a href="https://github.com/tkf/comparatist">commit</a>); he is clearly a talented programmer and without him this impressive
+piece of software would not exist.
+</p>
+
+<p>
+This is the point where yours truly enters the story. I had discovered the
+IPython notebook the previous year and had found it an exteremly useful for
+analyzing the performance of catalytic process units in the refining industry
+and working with Python in general, but being a long-time Emacs user I had
+somewhat bounced of the web interface. Discovering EIN was a godsend, and it
+quickly became a mainstay in my set of analytic tools.
+</p>
+
+<p>
+Unfortunately the changes in transitioning to v1.0 of the ipython notebook broke
+EIN, and with tkf apparently out of the picture there did not seem much hope in
+EIN staying compatible. Considering that I am a father of two with a full-time
+job that has absolutely nothing to do with programming (and yet I am a long-time
+Emacs user - it's complicated, don't ask), I can only describe what happened
+next as an act of complete insanity: I decided to fork tkf's code, dig in and
+try to keep up with the changes in ipython.
+</p>
+
+<p>
+Truthfully, no one was more surprised than I when I was actually able to keep
+ein working with versions 1.0 and, soon after, 2.0 of IPython. In fact that
+compatibility, in theory, is still in the code. One, again in theory, should be
+able to fire up a 1.x or 2.x version of the IPython notebook and connect to it
+using my fork of EIN. I say in theory, though, as I haven't touched that part of
+the code in some time and it undoubtedly has suffered some bit rot in the
+intervening years.
+</p>
+
+<p>
+The rest of the story is less interesting. Eventually I managed to convince
+github and MELPA to treat my repository as the official version of ein. There
+was some short-lived talk of renaming my fork to 'zwei', but the consensus was
+that things were confusing enough with the change in ownership and to keep the
+name as ein.
+</p>
+
+<p>
+Currently one can download ein through either <a href="http://melpa.org/#/ein">MELPA</a> or <a href="https://github.com/dimitri/el-get">el-get</a>, and someone has
+even been kind enough to create a spacemacs <a href="http://spacemacs.org/layers/+lang/ipython-notebook/README.html">layer</a> with convenient VIM
+keybindings for the heathens.
+</p>
+
+<p>
+At the moment EIN supports the recent incarnations of Jupyter, v4.3.1, token
+authentication, _xsrf cookies and all. By the time you read this I may even have
+pushed some commits that allow one to start and automatically log in to a
+jupyter notebook server all from Emacs without having to drop into the terminal.
+</p>
+
+<p>
+In all, EIN continues to be a viable alternative to the web browser client. It
+is not 100% feature complete, though, as it notably does not support widgets and
+quite possibly never will.
+</p>
+
+<p>
+I haven't kept close track of who is using EIN, but it has 341 stars on github
+and 28,175 downloads from MELPA. I know EIN is being used in at least a couple
+businesses and from what I have heard it tends to be more popular among those
+with a programming background - scientists and engineers tend to prefer the web
+client which is not surprising since Emacs is not so much a text editor as it is
+a Way of Life.
+</p>
+
+<p>
+I encourage anyone who is interested in trying out ein to install it via MELPA
+or from the spacemacs ipython-notebook layer. There is <a href="http://millejoh.github.io/emacs-ipython-notebook/">documentation</a>, but it is
+not perfect and I cannot guarantee it is 100% correct. Do not hesitate to open
+an <a href="https://github.com/millejoh/emacs-ipython-notebook/issues">issue</a> on github if you run into troubles, this is a hobby project but I do my
+best to support it.
+</p>
+
+<p>
+If you have made it this far then my sincere thanks for staying patient through
+my ramblings. As a parting thought I want to express my sincere thanks to
+Takafumi Arakaki, wherever he may be, and to the <a href="http://jupyter.org/about.html">Jupyter</a> team for their
+fantastic work in creating this amazing piece of software.
+</p>
