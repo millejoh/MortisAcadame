@@ -12,6 +12,10 @@ My writings, in no particular order:
 
  `A Short History of EIN Development <ein_history>`_.
 
+ `Quotes Of Note <QuotesOfNote>`_.
+
+ Tai Chi Classics: `I <TaiChiClassicsI>`_, `II <TaiChiClassicsII>`_, and `III <TaiChiClassicsIII>`_
+
  `Sadness <sadness>`_.
 
 

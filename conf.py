@@ -18,10 +18,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "John M. Miller"  # (translatable)
-BLOG_TITLE = "Morits Acadame"  # (translatable)
+BLOG_TITLE = "Mortis Acadame"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://millejoh.github.io/"
+SITE_URL = "https://millejoh.github.io/MortisAcadame/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://millejoh.github.io/"
@@ -644,7 +644,7 @@ REDIRECTIONS = []
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
 GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'

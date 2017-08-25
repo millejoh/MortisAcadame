@@ -1,8 +1,7 @@
 # Specific to this repository
+cache
+.doit.db
 output
-pelicanconf_local.py
-themes/
-plugins/
 *~
 
 # Byte-compiled / optimized / DLL files
@@ -59,3 +58,4 @@ docs/_build/
 
 # PyBuilder
 target/
+
