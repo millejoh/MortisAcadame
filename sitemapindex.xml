@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://millejoh.github.io/galleries/rss.xml</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/galleries/rss.xml</loc>
   <lastmod>2017-08-19T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://millejoh.github.io/rss.xml</loc>
-  <lastmod>2017-08-19T13:54:00Z</lastmod>
+  <loc>https://millejoh.github.io/MortisAcadame/rss.xml</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://millejoh.github.io/sitemap.xml</loc>
-  <lastmod>2017-08-19T15:59:00Z</lastmod>
+  <loc>https://millejoh.github.io/MortisAcadame/sitemap.xml</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>

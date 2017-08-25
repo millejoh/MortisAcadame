@@ -1,0 +1,205 @@
+"Whoring is to provide pleasure to another without any principle by
+which to understand whether or not pleasure and goodness are the same,
+and whether or not [that other] should have this pleasure."
+
+-- Richard Mitchell, "Writing Against your Life"
+
+"The whole business is a comforting display of the benefits we reap from the
+First Amendment, by whose power fools are so easily led into foregoing the
+protection offered them by the Fifth."
+
+-- Richard Mitchell, "Underground Grammarian" vol 11:1
+
+"Reading maketh a full man; conference a ready man; and writing an exact man."
+
+-- Francis Bacon
+
+"The excesse of Feasts and apparell are the notes of a sick State, and the wantonnesse of language, a sick mind."
+
+-- Ben Johnson, "Timber, or, Discoveries made upon Men and Matters"
+
+| Neither can his mind be thought to be in tune,
+|	 whose words do jarre;
+| nor his reason in frame,
+|	 whose sentence is preposterous;
+| nor his elocution clear and perfect,
+|	 whose utterance breaks itself into fragments and uncertainties."
+
+-- Ben Johnson, "Timber, or, Discoveries made upon Men and Matters"
+
+"Where there is an inward commitment to the worth of knowledge and
+reason -- not only because they are useful, but because they are good --
+the authority of principle is enough to ensure both the interest and
+the good workmanship that lead to clarity and precision, and even to
+grace, in statement."
+
+-- Richard Mitchell, "Underground Grammarian" vol 5:4
+
+"Experience by itself can teach only knacks, which may indeed save a
+fool, but will hardly make him wise, or even a teacher.  It is
+thoughtful, orderly discourse about experience that leads to understanding."
+
+-- Richard Mitchell, "Underground Grammarian" vol 6:8
+
+"One cannot understand the least thing about modern civilization if
+one does not first realize that it is a universal conspiracy to
+destroy the inner life."
+
+-- George Bernanos
+
+"He who would do good to another must do It in Minute Particulars.
+General Good is the plea of the scoundrel, hypocrite, flatterer; for Art and
+Science cannot exist but in minutely organized Particulars."
+
+-- William Blake
+
+"Our job, as UOP advisors, is to find problems before they occur."
+
+-- Erik T. Ougland
+
+"We have left undone those things which we ought to have done, and we
+have done those things which we ought not to have done, and there is
+no health in us."
+
+-- Richard Mitchell
+
+"Computer languages provide the possibility of an exact and precisely
+limited correspondence not only between what is said and what is
+meant, but also between what is meant and what is so in the strictly
+defined system about which, and only about which, statements can be
+made."
+
+-- Richard Mitchell, "Underground Grammarian" vol 8:1
+
+"But this we know: that Socrates held it an act of unreason and
+aggression to manage any human resources but his own, and that to
+treat a person as an object to be used or as an agent to be turned was
+not the act of a reasonable man, but a form of impiety, the injury of
+a soul."
+
+-- Richard Mitchell, "Underground Grammarian" vol 9:3
+
+comp.lang.lisp:
+  please realize that the Common Lisp community is more than 40 years old.
+  collectively, the community has already been where every clueless newbie
+  will be going for the next three years.
+
+-- #:Erik (Erik Naggum) 26JAN2000
+
+"We are neither peddlers nor politicians that we should prosper by
+that use of language which carries the least meaning."
+
+-- Richard Mitchell
+
+"As bad actors cannot sing alone, but only in a large company,
+so some men cannot walk alone.  Man, if you are worth anything, you
+must walk alone, and talk to yourself, and not hide in the chorus.  Learn
+to beat mockery, look about you, examine yourself, that you may get to know
+who you are."
+
+-- Epictetus
+
+"Literacy is not a handy knack.  It is a moral condition.  The ability
+to read attentively, reflectively, and judiciously is equally the
+ability to be attentive, reflective, and judicious.  For the sake of
+just and sane living, literacy is not an optional adornment.  It is a
+necessity.  It is _the_ necessity.  It is not a variety or portion of
+education.  It is education.  It is the whole thing, the wholesome
+nourishment of the mind, by which it may grow strong enough to be the
+master of the will and not its slave, the judge of desire and not its
+procurer, the censor of sentiment and not its tool, and the inquisitor
+of belief, and not its flack.  It is our only path to whatever wisdom
+we can have, which is our only path to whatever goodness we can know,
+which is our only path to whatever happiness we can enjoy."
+
+-- Richard Mitchell.
+
+"A student of astronomy should be careful not to look at the stars."
+
+-- Aristotle
+
+"In the Tree of Life there are two birds:  one eats, one watches."
+
+-- Older than the oldest.
+
+"Three things doth make the Earth tremble, and four which it cannot bear...
+	The servant that rideth.
+	The fool when he is full.
+	The odious woman when she is married.
+	The handmaiden that is heir to her mistress."
+
+-- Guess
+
+"Government is whatever agency that can both claim and exercise a total
+monopoly of power and violence."
+
+-- Richard Mitchell
+
+"Well, we know in part, we prophesy in part, and in part we babble,
+with the tongues neither of men nor of angels, reciting what we have
+often heard, as blind mouths speak to stopped ears, as no one speaks
+to no one."
+
+-- Richard Mitchell about "this nasty perversion of language and
+ 	 intellect" that is rightly called "Impactio".
+
+"The use of COBOL cripples the mind; its teaching should, therefore,
+be regarded as a criminal offense."
+
+-- Edsger Dijkstra
+
+"There's a bulimic's dream-feast of killer kontent on the way. [But]
+if it already makes you want to puke, get angry.  Write it, code it,
+paint it, play it - rattle the cage however you can.  Stay hungry.
+Stay free.  And believe it: win, lose , or draw, we're here to stay.
+Armed only with imagination, we're going to rip the fucking lid off."
+
+-- Chris Locke, "Cluetrain Manifesto: The Book"
+
+"Control is the enemy of imagination.  The two aren't just
+incompatible; they are inimical.  One drives out the other.  Deming,
+the Total Quality guy, said "drive out fear."  Imagine."
+
+-- Chris Locke, "Gonzo Marketing: Winning through Worst
+  	Practices."
+
+"So much for that.  There is another good reason for this change.  We
+are interested, obviously, in what we publish, but we are also
+interested in publishing itself.  We hold that the freedom of the
+press not only belongs to the man who owns one, but even that that
+freedom belongs only to the man who owns one.  Newspapers and
+magazines enjoy that freedom, of course, but only insofar as the law
+is concerned.  They are, by obvious necessity, bound---bound by the
+opinions and tastes of their readers and advertisers.  And bound, too,
+by perfectly legitimate principles of impartiality and restraint.
+Even scurrilous publications are captive to that depravity to which
+they pander.  But the private press, which is, we are convinced, what
+Jefferson had in mind, is free to be truly free.  If it is free to be
+crazy and perverse, that is the price we must pay so that it will also
+be free to do what we always hope and intend to do, to curry no one's
+favor and to fear no one's disapproval, but to seek and speak the
+truth as best it can."  
+
+-- Richard Mitchell, "Underground Grammarian, Vol 9:3"
+
+"The splitting of the infinitive, like the celibacy of the clergy, is
+a matter not of doctrine but of discipline."
+
+-- Richard Mitchell, "Underground Grammarian, Vol 2:4"
+
+"The uneducated man is like a leaf blown from here to there, believing
+whatever he is told."
+
+-- Socrates
+
+"There is a moment in every day that Satan's watchfiends cannot find."
+       - Blake
+
+"The basic assumption of the ward system, whether Jefferson knew it or
+not, was that no one could be called happy without his share in public
+happiness, that no one could be called free without his experience in
+public freedom, and that no one could be called either happy or free
+without participating, and having a share, in public power."
+	- Hannah Arendt (who's she?) writing about Thomas Jefferson
+
+

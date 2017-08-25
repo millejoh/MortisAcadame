@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Morits Acadame</title><link>https://millejoh.github.io/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Sat, 19 Aug 2017 13:54:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mortis Acadame</title><link>https://millejoh.github.io/MortisAcadame/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/MortisAcadame/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Fri, 25 Aug 2017 21:56:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introductions and Apologies</title><link>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I think the last time I genuinely tried to do one of these &lt;a class="reference external" href="http://radio.userland.com/"&gt;RadioUserland&lt;/a&gt; was the way to do it. Amazingly they still exist,
+I think? Anyway the world has moved on and so should we, to some extent. This
+new site takes advantage of the latest and greatest, and as such there is much
+still to learn. Expect general instability until we eventually settle down on
+some fixed sense of style and form. But ours is the way of the procrastination
+and indecision, so in reality there may never be any sense of "done" around
+here.&lt;/p&gt;
+&lt;p&gt;Ostensibly, this is where I will chronicle my (mis)adventures as an aging
+engineer in this bold, new hipster world of &lt;a class="reference external" href="https://www.apple.com"&gt;technology&lt;/a&gt;. Yes, I went there. But now I'm back. I don't hate
+them, I truly don't; only that about 10 years ago I suddenly found myself not
+cool enough and definitely not rich enough to continue the relationship.&lt;/p&gt;
+&lt;p&gt;Moving on. We will try to keep our writing to things that interest us, like our
+small labour of love, the &lt;a class="reference external" href="https://millejoh.github.io/emacs-ipython-notebook"&gt;Emacs Ipython Notebook&lt;/a&gt;, our interests in Machine
+Learning and Data Science, and our occasional journeys as a traveling Chemical
+Engineer. No promise, though, that things won't get a bit &lt;a class="reference external" href="https://millejoh.github.io/MortisAcadame/pages/sadness"&gt;weird&lt;/a&gt; from time to time.&lt;/p&gt;
+&lt;p&gt;So, welcome! Hope you enjoy your stay, no matter how short it may be.&lt;/p&gt;&lt;/div&gt;</description><guid>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</guid><pubDate>Sat, 19 Aug 2017 16:50:10 GMT</pubDate></item></channel></rss>

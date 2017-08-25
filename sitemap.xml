@@ -6,39 +6,63 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://millejoh.github.io/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/</loc>
+  <lastmod>2017-08-19T17:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/2017/</loc>
+  <lastmod>2017-08-19T17:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/archive.html</loc>
+  <lastmod>2017-08-19T17:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/categories/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/archive.html</loc>
-  <lastmod>2017-08-19T14:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://millejoh.github.io/categories/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/galleries/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/galleries/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/listings/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/listings/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/about/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/pages/</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </url>
- <url>
-  <loc>https://millejoh.github.io/pages/about/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/ein_history/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/pages/ein_history/</loc>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/quotesofnote/</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/sadness/</loc>
   <lastmod>2017-08-19T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://millejoh.github.io/pages/sadness/</loc>
-  <lastmod>2017-08-19T03:49:00Z</lastmod>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/taichiclassicsi/</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/taichiclassicsii/</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/pages/taichiclassicsiii/</loc>
+  <lastmod>2017-08-19T18:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</loc>
+  <lastmod>2017-08-19T17:31:00Z</lastmod>
  </url>
 </urlset>

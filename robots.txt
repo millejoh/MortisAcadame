@@ -1,4 +1,4 @@
-Sitemap: https://millejoh.github.io/sitemapindex.xml
+Sitemap: https://millejoh.github.io/MortisAcadame/sitemapindex.xml
 
 User-Agent: *
 Host: millejoh.github.io
