@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1503698265.0176308
+_modified_time = 1503862142.8637388
 _enable_loop = True
 _template_filename = 'themes/readable/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -36,17 +36,17 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        def content():
-            return render_content(context._locals(__M_locals))
-        helper = _mako_get_namespace(context, 'helper')
+        lang = context.get('lang', UNDEFINED)
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        date_format = context.get('date_format', UNDEFINED)
-        post = context.get('post', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
+        helper = _mako_get_namespace(context, 'helper')
+        def content():
+            return render_content(context._locals(__M_locals))
         site_has_comments = context.get('site_has_comments', UNDEFINED)
+        post = context.get('post', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -70,10 +70,10 @@ def render_body(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        helper = _mako_get_namespace(context, 'helper')
+        post = context.get('post', UNDEFINED)
         def extra_head():
             return render_extra_head(context)
-        post = context.get('post', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -90,14 +90,14 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        lang = context.get('lang', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context)
-        post = context.get('post', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
         site_has_comments = context.get('site_has_comments', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
+        post = context.get('post', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <div class="postdiv">\n    <a href="')
         __M_writer(str(post.permalink()))
