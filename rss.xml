@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mortis Acadame</title><link>https://millejoh.github.io/MortisAcadame/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/MortisAcadame/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Fri, 25 Aug 2017 21:56:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introductions and Apologies</title><link>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I think the last time I genuinely tried to do one of these &lt;a class="reference external" href="http://radio.userland.com/"&gt;RadioUserland&lt;/a&gt; was the way to do it. Amazingly they still exist,
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mortis Acadame</title><link>https://millejoh.github.io/MortisAcadame/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/MortisAcadame/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Sat, 23 Sep 2017 20:07:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Wealth Bondage</title><link>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I am happy to say that &lt;a class="reference external" href="https://github.com/tarsius"&gt;Jonas Bernoulli's&lt;/a&gt;
+&lt;a class="reference external" href="https://www.kickstarter.com/projects/1681258897/its-magit-the-magical-git-client?ref=eei2el"&gt;Kickstarter&lt;/a&gt; has been succesfully funded as of a few days ago. There still a
+few days left, so feel free to &lt;a class="reference external" href="https://www.reddit.com/r/emacs/comments/71viq3/the_magit_kickstarter_has_reached_its_goal_heres/"&gt;contribute&lt;/a&gt;. More money is always good when it is
+for a good cause.&lt;/p&gt;
+&lt;p&gt;My use case for git is honestly very simple as I do not contribute much to
+projects other than ein and the development team for the same is simply me,
+myself, and I. Even still, magit makes working with git easy and joyful and I am
+glad this package exists. In case you are wondering, I did make a very modest
+contribution to the campaign. If I had the means I would happily support more
+Emacs developers, particularly the ones who have contributed work that make EIN
+possible.&lt;/p&gt;
+&lt;p&gt;Jonas did something particularly interesting and courageous in an effort to
+promote his kickstarter: he added a modest, easily removed blurb on the magit
+status screen. It seems some took &lt;a class="reference external" href="https://github.com/magit/magit/issues/3174#issuecomment-330091971"&gt;offence&lt;/a&gt; to the tactic. Unreasonably so, in
+my opinion. It could not have been an easy decision for Jonas to take.&lt;/p&gt;
+&lt;p&gt;I think part of the problem is that we, and by we I mean U.S. citizens in
+particular, have been conditioned to view the asking for help as an act
+of despicable weakness- especially so when asking for money. There also seems to
+be a bit of an attitude within some parts of the FOSS community that there
+really are such things as free lunches. But that is a another topic worthy of
+its own dedicated post, and I don't plan to get into it here.&lt;/p&gt;
+&lt;p&gt;Also programmers can be sensitive to interruptions and distractions- I think
+&lt;a href="https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/#id1"&gt;&lt;span class="problematic" id="id2"&gt;`Rands in Repose`_&lt;/span&gt;&lt;/a&gt; diagnosed this particular condition succintly long ago
+- and advertisement is certainly up there on the list of non-value added
+distractions. In all, though, I think Jonas handled his plea for assistance
+elegantly and succinctly. I did not feel at all distracted or coereced into
+contributing to his campaign.&lt;/p&gt;
+&lt;p&gt;And contribute is the right word to use here, not give. Magit has helped me to
+be succesful in my work, so it only seemed fair to contribute back to its
+well-being.&lt;/p&gt;
+&lt;p&gt;Before I take leave, I have had in the back of my mind some words I read long
+ago by Phil Cubeta, he of the dungeon master to the stars. I can't find the
+post, unfortunately, but it had to do with levels, or rather a hierarchy, of
+giving and &lt;a class="reference external" href="http://www.chabad.org/library/article_cdo/aid/45907/jewish/Eight-Levels-of-Charity.htm"&gt;charity&lt;/a&gt;. Luckily a google search quickly revealed the
+aforementioned link, and the below summary.&lt;/p&gt;
+&lt;p&gt;I wonder if all who struggle with the non-trivial issue of financially
+supporting elisp package maintainers (and FOSS in general) wouldn't benefit at
+least some from quiet consideration of Mainmonide's levels of charity.&lt;/p&gt;
+&lt;p&gt;Mainmonide's 8 levels of &lt;a class="reference external" href="http://www.chabad.org/library/article_cdo/aid/45907/jewish/Eight-Levels-of-Charity.htm"&gt;charity&lt;/a&gt; (follow that link, it is much better than
+the summary below):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Investing in a poor person in a manner that they can become self-sufficient.&lt;/li&gt;
+&lt;li&gt;Giving to the poor without knowledge of the recipient and without allowing
+the recipient to know your identity.&lt;/li&gt;
+&lt;li&gt;Giving to the poor with knowledge of the recipient but without allowing the
+recipient to know your identity (anonymous giving).&lt;/li&gt;
+&lt;li&gt;Giving to the poor without knowledge of the recipient but allowing the
+recipient to know your identity.&lt;/li&gt;
+&lt;li&gt;Giving to the poor without or before being asked.&lt;/li&gt;
+&lt;li&gt;Giving to the poor after being asked.&lt;/li&gt;
+&lt;li&gt;Giving to the poor happily but inadequately.&lt;/li&gt;
+&lt;li&gt;Giving to the poor unwillingly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id1"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 26); &lt;em&gt;&lt;a href="https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Unknown target name: "rands in repose".&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</guid><pubDate>Sat, 23 Sep 2017 14:54:41 GMT</pubDate></item><item><title>Introductions and Apologies</title><link>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I think the last time I genuinely tried to do one of these &lt;a class="reference external" href="http://radio.userland.com/"&gt;RadioUserland&lt;/a&gt; was the way to do it. Amazingly they still exist,
 I think? Anyway the world has moved on and so should we, to some extent. This
 new site takes advantage of the latest and greatest, and as such there is much
 still to learn. Expect general instability until we eventually settle down on
