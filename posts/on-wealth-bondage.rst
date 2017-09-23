@@ -72,3 +72,4 @@ the summary below):
 .. _`contribute`: https://www.reddit.com/r/emacs/comments/71viq3/the_magit_kickstarter_has_reached_its_goal_heres/
 .. _`offence`: https://github.com/magit/magit/issues/3174#issuecomment-330091971
 .. _`charity`: http://www.chabad.org/library/article_cdo/aid/45907/jewish/Eight-Levels-of-Charity.htm 
+.. _`Rands in Repose`: http://randsinrepose.com/archives/nadd/

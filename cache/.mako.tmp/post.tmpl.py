@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1506197276.7279527
+_modified_time = 1506199680.6645405
 _enable_loop = True
 _template_filename = 'themes/readable/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -36,17 +36,17 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        helper = _mako_get_namespace(context, 'helper')
-        site_has_comments = context.get('site_has_comments', UNDEFINED)
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
+        lang = context.get('lang', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
         comments = _mako_get_namespace(context, 'comments')
-        lang = context.get('lang', UNDEFINED)
+        site_has_comments = context.get('site_has_comments', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         post = context.get('post', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
         date_format = context.get('date_format', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -70,10 +70,10 @@ def render_body(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        post = context.get('post', UNDEFINED)
         def extra_head():
             return render_extra_head(context)
         helper = _mako_get_namespace(context, 'helper')
-        post = context.get('post', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -90,14 +90,14 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        site_has_comments = context.get('site_has_comments', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
         def content():
             return render_content(context)
         comments = _mako_get_namespace(context, 'comments')
+        site_has_comments = context.get('site_has_comments', UNDEFINED)
         post = context.get('post', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <div class="postdiv">\n    <a href="')
         __M_writer(str(post.permalink()))
