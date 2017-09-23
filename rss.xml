@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mortis Acadame</title><link>https://millejoh.github.io/MortisAcadame/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/MortisAcadame/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Sat, 23 Sep 2017 20:07:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Wealth Bondage</title><link>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I am happy to say that &lt;a class="reference external" href="https://github.com/tarsius"&gt;Jonas Bernoulli's&lt;/a&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mortis Acadame</title><link>https://millejoh.github.io/MortisAcadame/</link><description>Confidence that encourages and sustains.</description><atom:link href="https://millejoh.github.io/MortisAcadame/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:millejoh@mac.com"&gt;John M. Miller&lt;/a&gt; </copyright><lastBuildDate>Sat, 23 Sep 2017 20:48:01 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On Wealth Bondage</title><link>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I am happy to say that &lt;a class="reference external" href="https://github.com/tarsius"&gt;Jonas Bernoulli's&lt;/a&gt;
 &lt;a class="reference external" href="https://www.kickstarter.com/projects/1681258897/its-magit-the-magical-git-client?ref=eei2el"&gt;Kickstarter&lt;/a&gt; has been succesfully funded as of a few days ago. There still a
 few days left, so feel free to &lt;a class="reference external" href="https://www.reddit.com/r/emacs/comments/71viq3/the_magit_kickstarter_has_reached_its_goal_heres/"&gt;contribute&lt;/a&gt;. More money is always good when it is
 for a good cause.&lt;/p&gt;
@@ -21,7 +21,7 @@ be a bit of an attitude within some parts of the FOSS community that there
 really are such things as free lunches. But that is a another topic worthy of
 its own dedicated post, and I don't plan to get into it here.&lt;/p&gt;
 &lt;p&gt;Also programmers can be sensitive to interruptions and distractions- I think
-&lt;a href="https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/#id1"&gt;&lt;span class="problematic" id="id2"&gt;`Rands in Repose`_&lt;/span&gt;&lt;/a&gt; diagnosed this particular condition succintly long ago
+&lt;a class="reference external" href="http://randsinrepose.com/archives/nadd/"&gt;Rands in Repose&lt;/a&gt; diagnosed this particular condition succintly long ago
 - and advertisement is certainly up there on the list of non-value added
 distractions. In all, though, I think Jonas handled his plea for assistance
 elegantly and succinctly. I did not feel at all distracted or coereced into
@@ -53,13 +53,7 @@ recipient to know your identity.&lt;/li&gt;
 &lt;li&gt;Giving to the poor happily but inadequately.&lt;/li&gt;
 &lt;li&gt;Giving to the poor unwillingly.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 26); &lt;em&gt;&lt;a href="https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Unknown target name: "rands in repose".&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><guid>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</guid><pubDate>Sat, 23 Sep 2017 14:54:41 GMT</pubDate></item><item><title>Introductions and Apologies</title><link>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I think the last time I genuinely tried to do one of these &lt;a class="reference external" href="http://radio.userland.com/"&gt;RadioUserland&lt;/a&gt; was the way to do it. Amazingly they still exist,
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid>https://millejoh.github.io/MortisAcadame/posts/on-wealth-bondage/</guid><pubDate>Sat, 23 Sep 2017 14:54:41 GMT</pubDate></item><item><title>Introductions and Apologies</title><link>https://millejoh.github.io/MortisAcadame/posts/introductions-and-apologies/</link><dc:creator>John M. Miller</dc:creator><description>&lt;div&gt;&lt;p&gt;I think the last time I genuinely tried to do one of these &lt;a class="reference external" href="http://radio.userland.com/"&gt;RadioUserland&lt;/a&gt; was the way to do it. Amazingly they still exist,
 I think? Anyway the world has moved on and so should we, to some extent. This
 new site takes advantage of the latest and greatest, and as such there is much
 still to learn. Expect general instability until we eventually settle down on
