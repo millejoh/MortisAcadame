@@ -29,15 +29,15 @@
 
 /* Tufte CSS styles */
 
-#container {
-    width: 960px;
-    margin: 0 auto;
-}
+/* #container { */
+/*     width: 960px; */
+/*     margin: 0 auto; */
+/* } */
 
-#content {
-    width: 730px;
-    margin: 0 auto;
-}
+/* #content { */
+/*     width: 730px; */
+/*     margin: 0 auto; */
+/* } */
 
 html { font-size: 15px; }
 
@@ -83,8 +83,8 @@ hr { display: block;
      margin: 1em 0;
      padding: 0; }
 
-div.postdiv > p,
-div.postdiv * p,
+/* div.postdiv > p, */
+/* div.postdiv * p, */
 body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;

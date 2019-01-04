@@ -13,8 +13,10 @@ ${math.math_styles_ifpost(post)}
 </%block>
 <%block name="content">
     <div class="postdiv">
-    <a href="${post.permalink()}"><h2>${post.title()}</a></h2>
+    <section>
+    <a href="${post.permalink()}"><h2>${post.title()}</h2></a>
     ${post.text(lang)}
+    </section>
     </div>
     <div class="postmeta">
     <small>&nbsp;§&nbsp;

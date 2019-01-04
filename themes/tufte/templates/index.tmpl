@@ -8,6 +8,7 @@ ${math.math_styles_ifposts(posts)}
 </%block>
 <%block name="content">
     % for post in posts:
+        <section>
         <div class="postdiv">
         <a href="${post.permalink()}"><h2>${post.title()}</a></h2>
         ${post.text(teaser_only=index_teasers)}
@@ -24,6 +25,7 @@ ${math.math_styles_ifposts(posts)}
              · ${tag}
         %endfor
         </div>
+        </section>
         <hr>
     % endfor
     ${helper.html_pager()}
