@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="description" content="Confidence that encourages and sustains.">
@@ -60,13 +60,12 @@
     </div>
     <hr>
 <div class="footer">
-    Contents © 2017         <a href="mailto:millejoh@mac.com">John M. Miller</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+    Contents © 2019         <a href="mailto:millejoh@mac.com">John M. Miller</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
     
     </div>
 </div>
     
             <script src="../assets/js/all-nocdn.js"></script><script type="text/javascript" src="../assets/js/jquery.sharrre-1.3.4.min.js"></script><script type="text/javascript">
-        jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});
         $('#share').sharrre({
         share: {
             googlePlus: true,
@@ -85,6 +84,12 @@
         enableTracking: true,
         urlCurl: ""
         });
+    </script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
     </script>
 </body>
 </html>
