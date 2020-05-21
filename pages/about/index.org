@@ -1,34 +1,37 @@
 #+BEGIN_COMMENT
-.. title: About John
+.. title: About John:
 #+END_COMMENT
 
-* Mortis Acadame
-
-All true education must begin with the premise that one day the student will
-die.
-
-* Chemical Engineering
+* Being a Chemical Engineer
 
 Writing, analysis, planning, team leading.
 
 Commissioning, instrumentation, troubleshooting.
 
-Technology - Instrumentation, Controls, Platforming, Isomerization, Oleflex, Merox, HF Alkylation, FCC.
+Technology - Instrumentation, Controls, [[https://www.uop.com/processing-solutions/refining/gasoline/#naphtha-reforming][Platforming]], [[https://www.uop.com/processing-solutions/refining/gasoline/#naphtha-isomerization][Isomerization]], [[https://www.uop.com/processing-solutions/petrochemicals/olefins/#butylenes][Oleflex
+(C4=)]], Merox ([[https://www.uop.com/processing-solutions/refining/gas-lpg-treating/#gas-treating][Extraction]] & [[https://www.uop.com/processing-solutions/refining/gasoline/#naphtha-treating][Sweetening]]), [[https://www.uop.com/processing-solutions/refining/gasoline/#alkylation][HF Alkylation]], [[https://www.uop.com/processing-solutions/refining/vgo-fuel-oil-conversion/#fcc][FCC]]. I'll eventually add
+Hydrocracking to the list, if given enough time and motivation. Also, the
+discerning reader should be able to divine who I work for.
 
 Salesforce.
 
-* Computer Science
+* Dabbling in Computer Science
 
 Python, Common Lisp, emacs lisp.
 
 [[https://github.com/millejoh/emacs-ipython-notebook][Emacs IPython Notebook]] - Once maintainer, now silent user. Responsible for
-migrating support from IPython 1.0 to 2.0 and beyond. (How many melpa
-downloads?).
+migrating support from IPython 1.0 to 2.0 and beyond. Over 1k stars and over
+150k (!) downloads from [[https://melpa.org/#/?q=ein][MELPA]].
 
 Contributed to [[https://github.com/ahyatt/emacs-websocket][emacs-websocket]].
 
 Long, long ago (1999-2000) I ported a very early version of [[http://clsql.kpe.io/manual/][clsql]] to Lispworks
-(some may recognize the irony in this considering that clsql was based off
-Lispworks [[http://www.lispworks.com/documentation/sql-tutorial/][Common SQL]] api).
+(some may recognize the irony in this since clsql was an open source
+implementation of the Lispworks [[http://www.lispworks.com/documentation/sql-tutorial/][Common SQL]] api).
 
 Unpublished - Python interface to Uniformance PHD using COM. Python interface to Outlook.
+
+* Writing Mortis Acadame
+
+All true education must begin with the premise that one day the student will
+die.
