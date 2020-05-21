@@ -2,13 +2,18 @@
 .. title: About John
 #+END_COMMENT
 
+* Mortis Acadame
+
+All true education must begin with the premise that one day the student will
+die.
+
 * Chemical Engineering
 
 Writing, analysis, planning, team leading.
 
 Commissioning, instrumentation, troubleshooting.
 
-Technology - Instrumentation, Controls, Platforming, Isomerization, Merox, HF Alkylation, FCC.
+Technology - Instrumentation, Controls, Platforming, Isomerization, Oleflex, Merox, HF Alkylation, FCC.
 
 Salesforce.
 
@@ -16,13 +21,14 @@ Salesforce.
 
 Python, Common Lisp, emacs lisp.
 
-Emacs IPython Notebook - Current maintainer, responsible for migrating support
-from IPython 1.0 to 2.0 and beyond. (How many melpa downloads?).
+[[https://github.com/millejoh/emacs-ipython-notebook][Emacs IPython Notebook]] - Once maintainer, now silent user. Responsible for
+migrating support from IPython 1.0 to 2.0 and beyond. (How many melpa
+downloads?).
 
-Contributed to emacs-websocket.
+Contributed to [[https://github.com/ahyatt/emacs-websocket][emacs-websocket]].
 
-Long, long ago (1999-2000) I ported commonsql to Lispworks (which is pretty
-ironic considering that commonsql was based on Lispworks ??? (what was the
-name)).
+Long, long ago (1999-2000) I ported a very early version of [[http://clsql.kpe.io/manual/][clsql]] to Lispworks
+(some may recognize the irony in this considering that clsql was based off
+Lispworks [[http://www.lispworks.com/documentation/sql-tutorial/][Common SQL]] api).
 
 Unpublished - Python interface to Uniformance PHD using COM. Python interface to Outlook.
