@@ -201,11 +201,15 @@ In no particular order.
 ------
 
 #+BEGIN_QUOTE
-  Three things doth make the Earth tremble, and four which it cannot bear------.
- 	The servant that rideth.
- 	The fool when he is full.
- 	The odious woman when she is married.
- 	The handmaiden that is heir to her mistress."
+  Three things doth make the Earth tremble, and four which it cannot bear---
+
+ 	 - The servant that rideth.
+
+ 	 - The fool when he is full.
+
+ 	 - The odious woman when she is married.
+
+ 	 - The handmaiden that is heir to her mistress."
 
  -- Guess
 #+END_QUOTE
@@ -243,8 +247,8 @@ In no particular order.
 
 #+BEGIN_QUOTE
  There's a bulimic's dream-feast of killer kontent on the way. [But] if it
- already makes you want to puke, get angry. Write it, code it, paint it, play it
- - rattle the cage however you can. Stay hungry. Stay free. And believe it: win,
+ already makes you want to puke, get angry. Write it, code it, paint it, play it--
+ rattle the cage however you can. Stay hungry. Stay free. And believe it: win,
  lose , or draw, we're here to stay. Armed only with imagination, we're going to
  rip the fucking lid off.
 
@@ -318,4 +322,3 @@ In no particular order.
 
  -- [[http://hac.bard.edu/about/hannaharendt/][Hannah Arendt]] writing about Thomas Jefferson
 #+END_QUOTE
-

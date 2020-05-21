@@ -1,4 +1,6 @@
+#+BEGIN_COMMENT
 .. title: Tai Chi Classics I
+#+END_COMMENT
 
 Once you begin to move, the entire body must be light and limber. Each part of
 your body should be connected to each other part.
