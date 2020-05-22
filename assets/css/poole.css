@@ -464,3 +464,11 @@ a.pagination-item:hover {
 .codetable pre {
     overflow-x: scroll;
 }
+
+/*
+ * Org Mode Markup
+ */
+
+.org-center {
+    text-align: center;
+}

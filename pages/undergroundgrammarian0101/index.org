@@ -1,0 +1,184 @@
+#+BEGIN_COMMENT
+.. title: The Underground Grammarian
+.. date: January 1977
+#+END_COMMENT
+
+#+BEGIN_CENTER
+Volume One, Number One......January 1977
+#+END_CENTER
+
+
+* EDITORIAL POLICIES
+
+  *The Underground Grammarian* is an unauthorised journal devoted to the
+  protection of the Mother Tongue at Glassboro State College. Our language can
+  be written and spoken correctly, even beautifully. We do not demand beauty,
+  but bad English cannot be excused or tolerated in a college. The underground
+  Grammarian will expose and ridicule examples of jargon, faulty syntax,
+  redundancy, needless neologism, and any other kind of outrage against English.
+
+  Clear language engenders clear thought, and clear thought is the most
+  important benefit of education. We are neither peddlers nor politicians that
+  we should prosper by that use of language which carries the least meaning. We
+  cannot honorably accept the wages, confidence, or licensure of the citizens
+  who employ us as we darken counsel by words without understanding. And so, to
+  the whole college community, to students, to teachers, and to administrators
+  of every degree, The Underground Grammarian gives
+
+  #+BEGIN_CENTER
+
+WARNING!
+
+RAPE
+
+Of the Mother Tongue
+
+WILL BE PUNISHED!
+
+  #+END_CENTER
+
+
+* THE WANDERING SCHOLAR
+
+  *THE* following specimen was collected and analyzed by our field investigator,
+  who reads /everything/. Remember that. We quote in full a memo from Stanley B.
+  Yeldell dated October 20, 1976. Even the casual reader is repelled by the
+  jargon /forward/ for /send/, /commence/ for /begin/, and the unspeakable
+  /necessary and essential/, but our wandering scholar explores the failures of
+  thought and logic which always accompany bad English. And /vice versa/.
+
+
+  #+BEGIN_QUOTE
+
+  In reference to the above captioned matter;
+  please be advised that the above committee
+  will serve as a center for all complaints,
+  problems and related matters of safety and
+  security.
+
+  Moreover, the intent of said committee is to
+  examine, investigate, recommend, and attempt
+  to resolve safety and security matters that
+  affect the welfare of this campus.
+  However, this committee deems it necessary
+  and essential that the college community
+  forward suggestions to this committee.
+
+  We hope that you will help said committee
+  provide a vital service that has been overdue;
+  but we maintain that we are alive and ready to
+  commence.
+
+  Moreover, we urge you to forward your
+  suggestion, complaints, and inquiries to any
+  of the subsequent members of this committee,
+  who are listed on the reverse side of this
+  letter.
+
+#+END_QUOTE
+
+  This notice illustrates the avoidable ugliness, redundancy, imprecision,
+  pretentiousness, and slovenly diction common to much writing distributed on
+  this campus. Each fault is illustrated in the first sentence. A concern for
+  clarity and precision would have suggested to the writer the direct statement,
+  /The Safety and Security Committee will serve as a center/. . . Such
+  directness would have saved nine words and would have avoided the clumsy
+  vapidity of /In reference to the above captioned matter and above committee/.
+  Directness would also have prevented the incompetent setting off of an
+  introductory phrase with a semi-colon. And furthermore, directness and
+  precision would have relieved Yeldell’s nagging fear that his readers would
+  not easily identify his committee. He might then have avoided the ugly
+  legalese of /said committee/ in two places.
+
+  The use of the conjunction /but/ in the third paragraph is curiously
+  illogical. As the common adversative conjunction, /but/ is used to connect
+  clauses in which the total effect of one clause is opposed to the total effect
+  of the other. In this sentence, Yeldell apparently wants to emphasize the
+  contrast between providing a /vital service/ and being /alive/. This implies
+  that /vital service/ is not usually provided by committees that are /alive/,
+  or that /vital service/ is usually provided by committees that are not
+  /alive/. This sentence is made even more curious by the use of /maintain/ in
+  /we maintain that we are alive/. . . Here, /maintain/ seems to mean “to
+  support or defend through argument.” Thus the clause implies that this
+  assertion is, at least, arguable, or that the committee may be dead. Not being
+  familiar with the committee, however, we cannot absolutely conclude that the
+  use of /maintain/ is an example of slovenly diction.
+
+  The last sentence begins rather oddly with an illogical /moreover/, that not only
+  reminds the reader of the misuse of /but/ and the questionable vitality of the
+  committee, but also conjoins these memories with an urgent request that all
+  readers forward /suggestions, complaints, and inquiries to any of the subsequent
+  members/. . . Of course, the confusion created by the misuse of /subsequent/ is
+  partially clarified by the final inaccurate clause, /who are listed on the
+  reverse side of this letter/. Nevertheless, /subsequent/ means “following in time
+  or coming later than something else.” Considering the questionable vitality of
+  the committee, a reader, guided by the apparent meaning of the clause and not a
+  charitable guess at the writer’s intentions, could interpret the request to mean
+  that /complaints and inquiries/ should be sent to members of a later committee.
+
+  Good idea.
+
+* QUOTE WITHOUT COMMENT
+
+  *EVERY* month The Underground Grammarian will publish examples of indecent
+  exposure— unseemly public displays of bad English at Glassboro. Any reader who
+  can’t see anything wrong with our examples had better stop sending out
+  memoranda.
+
+  #+BEGIN_QUOTE
+
+  It is important to note that these four thrusts of the college have given
+  emphasis both to programs tending towards vocational/occupational needs and
+  to programs tending towards the needs of the generally educated, cultured
+  citizen.... It is useful to analyze past and future in this bi-functional
+  manner, however.
+
+  --- Mark Chamberlain, Planning for 1976-77— and Beyond, p. 2.
+
+  Your attempt to camouflage the fact you are copping out fails.
+
+  --- Richard Ambacher, in The Glassboro Whit, November 11, 1976, p. 3.
+
+  #+END_QUOTE
+
+  Next Month: A guided tour through the English Course Guide.
+
+** What Can We Do?
+
+  *The Underground Grammarian* does not advocate violence; it advocates ridicule.
+  Abusers of English are often pompous, and ridicule hurts them more than
+  violence. In every edition we will bring you practical advice for ridiculing
+  abusers of English.
+
+  This month’s target is any barbarian who says /advisement/. We can advise, or
+  give advice, or even do some advising. /Advisement/ permits nothing beyond
+  what we can already mean with the words we have. Perhaps, by analogy to
+  /confinement/, it might name a condition in which we suffer the consequence of
+  having been advised; or, like /government/, it might indicate some cloud of
+  loosely related abstractions and institutions. Those who say it to us must
+  simply mean /advising/, but they fear that a clear naming of what they do will
+  reveal how little it needs doing, and they will find themselves in the streets
+  selling wind-up toys. Such people feel degraded unless what they do ends with
+  -ment or some other /official/ sound such as -ation or -ivity. Work that ends
+  with -ing makes them nervous.
+
+  Do not boo and stamp your feet when some barbarian says /advisement/; it will
+  bring reprisal, for barbarians are vindictive. Simply mutter, just loud enough
+  to be heard, “Clickety-click-click.” This requires no lip movement and
+  suggests a wind-up toy. With a female barbarian, an equally good response is
+  “Ding-dong,” familiar to all television-addicted barbarians and suggesting
+  some more appropriate career in cosmetics.
+
+  When /advisement/ appears in a document sent by campus mail, smear it with
+  something foul and return it to the sender.
+
+* Good Hunting!
+
+  ABOUT SUBSCRIPTIONS & OTHER THINGS
+
+  There are no subscriptions. We don’t lack money, and we may attack you in the
+  next issue. No one is safe.
+
+  We will print no letters to the editor. We will give no space to opposing points
+  of view. They are wrong. *The Underground Grammarian* is at war and will give the
+  enemy nothing but battle.

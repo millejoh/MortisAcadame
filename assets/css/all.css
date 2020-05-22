@@ -541,6 +541,14 @@ a.pagination-item:hover {
 }
 
 /*
+ * Org Mode Markup
+ */
+
+.org-center {
+    text-align: center;
+}
+
+/*
  *  ___
  * /\_ \
  * \//\ \      __      ___   __  __    ___     ___
